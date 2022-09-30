@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto Construido com estudos próprios
+Projeto Construido com estudos e referência no YouTube
 
 [Clique aqui para acessar (https://hiquesilva99.github.io/geradordesenha/)]
 
